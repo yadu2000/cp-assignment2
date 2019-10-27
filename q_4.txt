@@ -22,4 +22,4 @@ While the gameStatus remains as CONTINUE it keeps generating random numbers for 
 two variables. During this if the values of sum becomes equal to the value of the player's point the player wins the game and the above
 mentioned condition for WON is executed. Whereas if the sum becomes 7 during this loop the player loses the game and the above mentioned condition
 for LOST is executed.
-© 2019 GitHub, Inc.
+
